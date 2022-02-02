@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 90
+  controlID: 16
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 91
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 92
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -2269,22 +2269,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/SampleSceneAssets/TutorialInfo
+    - Assets/Tree
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/SampleSceneAssets/TutorialInfo
+  - Assets/Tree
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\steic\Documents\GitHub\The-Game\HRP
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 74}
-    m_SelectedIDs: 165a0000
-    m_LastClickedID: 23062
-    m_ExpandedIDs: 00000000f4590000f6590000f859000000ca9a3b
+    scrollPos: {x: 0, y: 122}
+    m_SelectedIDs: a2590000
+    m_LastClickedID: 22946
+    m_ExpandedIDs: 00000000685900006a5900006c590000a259000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2312,7 +2312,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f4590000f6590000f8590000
+    m_ExpandedIDs: 00000000685900006a5900006c590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2340,7 +2340,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300001e5b0000c2580000a05d000080580000486300008c670000
+    m_ExpandedInstanceIDs: c62300001e5b0000c2580000a05d000080580000486300008c670000e05d0000385e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2433,9 +2433,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 0efbffff
+      m_SelectedIDs: 68d8ffff
+      m_LastClickedID: -10136
+      m_ExpandedIDs: 68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -2495,9 +2495,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.6997776, y: -5.1768866, z: 55.885464}
+    m_Target: {x: -4.0217066, y: -3.7404695, z: 56.084286}
     speed: 2
-    m_Value: {x: -3.6997776, y: -5.1768866, z: 55.885464}
+    m_Value: {x: -4.0217066, y: -3.7404695, z: 56.084286}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -2548,9 +2548,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.0662546, y: -0.010471356, z: 0.0006954132, w: -0.9977388}
   m_Size:
-    m_Target: 29.344694
+    m_Target: 27.669395
     speed: 2
-    m_Value: 29.344694
+    m_Value: 26.47789
   m_Ortho:
     m_Target: 0
     speed: 2
