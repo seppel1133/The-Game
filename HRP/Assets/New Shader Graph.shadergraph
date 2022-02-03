@@ -669,7 +669,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
-        "y": 0.004999999888241291
+        "y": 0.0
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -1604,7 +1604,7 @@
     "m_ShaderOutputName": "Offset",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": -0.004999999888241291,
+        "x": 0.0,
         "y": 0.0
     },
     "m_DefaultValue": {
@@ -1884,7 +1884,7 @@
     "m_ShaderOutputName": "Offset",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.004999999888241291,
+        "x": 0.0,
         "y": 0.0
     },
     "m_DefaultValue": {
@@ -2321,7 +2321,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
-        "y": -0.004999999888241291
+        "y": 0.0
     },
     "m_DefaultValue": {
         "x": 0.0,
