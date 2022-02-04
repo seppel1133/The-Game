@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637794811751439101
-    m_Hash: 3530695480
+      ticks: 637795622253850912
+    m_Hash: 3524288292
   m_LockFileStatus:
     m_FilePath: C:/Users/memel/OneDrive/Dokumente/GitHub/The-Game/HRP/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637794811751479142
-    m_Hash: 3462646020
+      ticks: 637795622253850912
+    m_Hash: 1135030459
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
