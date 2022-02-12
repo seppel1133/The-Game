@@ -28,17 +28,17 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.343
+    m_Value: 0.507
     min: 0
     max: 1
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.846
+    m_Value: 1
     min: 0.01
     max: 1
   roundness:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.854
     min: 0
     max: 1
   rounded:
@@ -74,7 +74,7 @@ MonoBehaviour:
     m_Value: 1
   focusDistance:
     m_OverrideState: 1
-    m_Value: 13
+    m_Value: 30.4
     min: 0.1
   nearFocusStart:
     m_OverrideState: 1
@@ -82,24 +82,24 @@ MonoBehaviour:
     min: 0
   nearFocusEnd:
     m_OverrideState: 1
-    m_Value: 8.31
+    m_Value: 24.3
     min: 0
   farFocusStart:
     m_OverrideState: 1
-    m_Value: 18.76
+    m_Value: 25.28
     min: 0
   farFocusEnd:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 20
     min: 0
   m_NearSampleCount:
     m_OverrideState: 1
-    m_Value: 5
+    m_Value: 6
     min: 3
     max: 8
   m_NearMaxBlur:
     m_OverrideState: 1
-    m_Value: 8
+    m_Value: 2.49
     min: 0
     max: 8
   m_FarSampleCount:
@@ -109,7 +109,7 @@ MonoBehaviour:
     max: 16
   m_FarMaxBlur:
     m_OverrideState: 1
-    m_Value: 6.68
+    m_Value: 1.77
     min: 0
     max: 16
   m_HighQualityFiltering:
@@ -149,13 +149,13 @@ MonoBehaviour:
     m_Value: 12.674204
   compensation:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: -2.14
   limitMin:
     m_OverrideState: 1
-    m_Value: -0.3313689
+    m_Value: 6.1968246
   limitMax:
-    m_OverrideState: 0
-    m_Value: 14
+    m_OverrideState: 1
+    m_Value: 13.089982
   curveMap:
     m_OverrideState: 0
     m_Value:
@@ -235,7 +235,7 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
   adaptationMode:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   adaptationSpeedDarkToLight:
     m_OverrideState: 0
@@ -351,7 +351,7 @@ MonoBehaviour:
     showEyeDropper: 1
   tint:
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value: {r: 0.8207547, g: 0.2981043, b: 0.2981043, a: 1}
     hdr: 1
     showAlpha: 0
     showEyeDropper: 1
@@ -380,14 +380,14 @@ MonoBehaviour:
     m_Value: 50.3
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 91.82
+    m_Value: 313.7
     min: 1
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
   albedo:
     m_OverrideState: 1
-    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    m_Value: {r: 0.41509432, g: 0.37549266, b: 0.3426486, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
