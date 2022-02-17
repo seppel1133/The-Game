@@ -40,8 +40,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_082386d44a47408d95ab85712185b36c: 0.69
-    - Vector1_63074383610a4250bfdbff1398d54f05: 0.23
-    - Vector1_967e9b506e1b4a38bc7e31c4b44c2725: 0.005
+    - Vector1_63074383610a4250bfdbff1398d54f05: 0.41
+    - Vector1_967e9b506e1b4a38bc7e31c4b44c2725: 0.01
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 10

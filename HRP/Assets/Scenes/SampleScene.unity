@@ -32482,7 +32482,7 @@ Transform:
   m_GameObject: {fileID: 1048031334}
   m_LocalRotation: {x: 0, y: -0, z: 0, w: 1}
   m_LocalPosition: {x: -0.53, y: 0, z: 6.54}
-  m_LocalScale: {x: 1, y: 1.08, z: 1}
+  m_LocalScale: {x: 1, y: 1.1, z: 1}
   m_Children:
   - {fileID: 1867317992}
   m_Father: {fileID: 0}
@@ -50668,7 +50668,7 @@ MonoBehaviour:
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
   m_SpotIESCutoffPercent: 100
-  m_LightDimmer: 1
+  m_LightDimmer: 1.36
   m_VolumetricDimmer: 1
   m_LightUnit: 2
   m_FadeDistance: 10000
@@ -50761,7 +50761,7 @@ MonoBehaviour:
   useOldInspector: 0
   useVolumetric: 1
   featuresFoldout: 1
-  showAdditionalSettings: 8
+  showAdditionalSettings: 12
   m_AreaLightEmissiveMeshShadowCastingMode: 0
   m_AreaLightEmissiveMeshMotionVectorGenerationMode: 0
   m_AreaLightEmissiveMeshLayer: -1
@@ -58344,8 +58344,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1867317988}
   m_LocalRotation: {x: 0.2588191, y: -0, z: -0, w: 0.9659258}
-  m_LocalPosition: {x: 0, y: 18.699999, z: -33.169}
-  m_LocalScale: {x: 1, y: 0.9111619, z: 0.9685229}
+  m_LocalPosition: {x: 0, y: 18.359999, z: -33.169}
+  m_LocalScale: {x: 1, y: 0.898448, z: 0.9637984}
   m_Children: []
   m_Father: {fileID: 1048031336}
   m_RootOrder: 0

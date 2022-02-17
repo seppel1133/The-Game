@@ -68,7 +68,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   quality:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 3
   focusMode:
     m_OverrideState: 1
     m_Value: 2
@@ -103,7 +103,7 @@ MonoBehaviour:
     min: 0
     max: 8
   m_FarSampleCount:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 5
     min: 3
     max: 16
@@ -350,7 +350,7 @@ MonoBehaviour:
     showAlpha: 0
     showEyeDropper: 1
   tint:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.990566, g: 0.92982376, b: 0.92982376, a: 1}
     hdr: 1
     showAlpha: 0
@@ -366,11 +366,11 @@ MonoBehaviour:
     max: 1
   mipFogNear:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: 405.9
     min: 0
   mipFogFar:
     m_OverrideState: 0
-    m_Value: 1000
+    m_Value: 949.86
     min: 0
   baseHeight:
     m_OverrideState: 1
@@ -405,7 +405,7 @@ MonoBehaviour:
     m_Value: 1
   anisotropy:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: -0.13
     min: -1
     max: 1
   sliceDistributionUniformity:
@@ -455,7 +455,7 @@ MonoBehaviour:
   m_Name: Bloom
   m_EditorClassIdentifier: 
   active: 1
-  m_AdvancedMode: 0
+  m_AdvancedMode: 1
   quality:
     m_OverrideState: 0
     m_Value: 2
