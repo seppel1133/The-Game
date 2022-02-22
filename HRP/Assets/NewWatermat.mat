@@ -13,7 +13,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
+  m_CustomRenderQueue: 2750
   stringTagMap:
     MotionVector: User
     RenderType: Transparent
@@ -39,8 +39,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_082386d44a47408d95ab85712185b36c: 0.7
-    - Vector1_63074383610a4250bfdbff1398d54f05: 0.15
+    - Vector1_082386d44a47408d95ab85712185b36c: 0.19
+    - Vector1_63074383610a4250bfdbff1398d54f05: 0.93
     - Vector1_967e9b506e1b4a38bc7e31c4b44c2725: 0.005
     - _AddPrecomputedVelocity: 0
     - _AlphaCutoffEnable: 0
@@ -62,7 +62,7 @@ Material:
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
-    - _RenderQueueType: 4
+    - _RenderQueueType: 3
     - _RequireSplitLighting: 0
     - _SrcBlend: 1
     - _StencilRef: 0
@@ -90,8 +90,8 @@ Material:
     - _ZTestTransparent: 2
     - _ZWrite: 0
     m_Colors:
-    - Color_56f736f7098143069cf930024da0499d: {r: 0.017799927, g: 0.10721024, b: 0.1509434, a: 0.7019608}
-    - Color_5be736b051a34268bc1e18c2aa0527fe: {r: 0.7195621, g: 0.8586464, b: 0.9245283, a: 0}
+    - Color_56f736f7098143069cf930024da0499d: {r: 0.043120332, g: 0.12987758, b: 0.16037738, a: 0.9019608}
+    - Color_5be736b051a34268bc1e18c2aa0527fe: {r: 1, g: 1, b: 1, a: 0.41568628}
     - Vector2_64fc5d88e5be46c7b8deb99336aba080: {r: 3.97, g: 5.14, b: 3.65, a: -0.11}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
