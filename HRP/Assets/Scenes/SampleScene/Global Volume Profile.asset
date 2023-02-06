@@ -357,7 +357,7 @@ MonoBehaviour:
     showEyeDropper: 1
   maxFogDistance:
     m_OverrideState: 1
-    m_Value: 303.7
+    m_Value: 299.1
     min: 0
   mipFogMaxMip:
     m_OverrideState: 1
@@ -380,7 +380,7 @@ MonoBehaviour:
     m_Value: 299.2
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 103.43
+    m_Value: 70
     min: 1
   enableVolumetricFog:
     m_OverrideState: 1
